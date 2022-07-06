@@ -36,7 +36,9 @@ public class TopKFreqElements_Optimal {
     }
 
     private List<Integer>[] getFreqBucket(final int[] freq, final Range range) {
+        @SuppressWarnings("unchecked")
         var buckets = (List<Integer>[]) new List[range.size() + 1];
+        
         for (int i = 0; i < freq.length; ++i) {
             int count = freq[i];
             if (count == 0)   continue;

@@ -101,7 +101,6 @@ public class SearchInRotatedArrayUnknownIndex {
         int targetIndex;
         if (target >= nums[0]) {
             // edge case for 1 element partition
-            int high = mid;
             if (mid == 0) {
                 mid = 1;
             }

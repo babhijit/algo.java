@@ -1,6 +1,5 @@
 package com.algo.leetcode.array.min_cost_connect_all_points;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
@@ -37,14 +36,12 @@ public class MinCostConnectedPoints_UF {
     }
 
     private static class UnionFind {
-        private final Point[] vertices;
         private final int[] root;
         private final int[] size;
 
         private int connectedComponents;
 
-        public UnionFind(final int N, final Point[] vertices) {
-            this.vertices = vertices;
+        public UnionFind(final int N) {
             this.connectedComponents = N;
 
             root = new int[N];
@@ -103,7 +100,7 @@ public class MinCostConnectedPoints_UF {
         }
 
         int minCost = 0;
-        var uf = new UnionFind(N, vertices);
+        var uf = new UnionFind(N);
         while (uf.connectedComponents != 1) {
             var edge = pq.poll();
             int v = edge.v; int w = edge.w;

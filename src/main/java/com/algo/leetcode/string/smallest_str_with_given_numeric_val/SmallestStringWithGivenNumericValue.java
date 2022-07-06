@@ -3,8 +3,6 @@ package com.algo.leetcode.string.smallest_str_with_given_numeric_val;
 import java.util.Arrays;
 
 public class SmallestStringWithGivenNumericValue {
-    private static final int R = 26;
-
     public String getSmallestString(int n, int k) {
         char[] chars = new char[n];
         Arrays.fill(chars, 'a');

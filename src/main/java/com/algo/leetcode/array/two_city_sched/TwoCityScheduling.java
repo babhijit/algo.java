@@ -84,8 +84,6 @@ public class TwoCityScheduling {
             costIndices[i + 1] = i;
         }
 
-        var heapSort = new HeapSortByIndex(costIndices, costDiff);
-
         int totalCost = 0;
         for (int i = 1; i <= N/2; ++i) {
             int costAIndex = costIndices[N +1 - i];

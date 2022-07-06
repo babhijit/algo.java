@@ -1,7 +1,5 @@
 package com.algo.leetcode.tree.binary;
 
-import com.algo.leetcode.tree.binary.TreeNode;
-
 import java.util.LinkedList;
 import java.util.Objects;
 import java.util.Queue;
@@ -43,8 +41,6 @@ public class BinaryTree {
         if (N <= index) {
             return null;
         }
-
-        Integer value = tree[index];
 
         var node = new TreeNode(tree[index++]);
         int left = 2 * index - 1;
