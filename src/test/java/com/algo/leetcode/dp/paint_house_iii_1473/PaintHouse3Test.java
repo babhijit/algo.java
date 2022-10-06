@@ -1,6 +1,6 @@
 package com.algo.leetcode.dp.paint_house_iii_1473;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

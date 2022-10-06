@@ -2,7 +2,7 @@ package com.algo.leetcode.dp.interleaving_string_97;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 public class InterleavingStringsTest extends AbstractExecuteTests<TestCase> {
 

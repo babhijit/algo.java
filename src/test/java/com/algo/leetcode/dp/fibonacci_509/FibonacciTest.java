@@ -3,7 +3,7 @@ package com.algo.leetcode.dp.fibonacci_509;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 public class FibonacciTest extends AbstractExecuteTests<TestCase> {
 

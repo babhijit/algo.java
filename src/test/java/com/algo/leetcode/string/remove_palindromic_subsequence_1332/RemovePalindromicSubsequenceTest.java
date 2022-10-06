@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.remove_palindromic_subsequence_1332;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

@@ -1,6 +1,6 @@
 package com.algo.leetcode.greedy.non_decr_array_665;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

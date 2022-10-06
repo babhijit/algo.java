@@ -1,6 +1,6 @@
 package com.algo.leetcode.bsearch.find_duplicate_number;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

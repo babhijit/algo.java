@@ -1,7 +1,7 @@
 package com.algo.interviewbit.greedy.meeting_rooms;
 
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

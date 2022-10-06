@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.construct_target_mult_sums_1354;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

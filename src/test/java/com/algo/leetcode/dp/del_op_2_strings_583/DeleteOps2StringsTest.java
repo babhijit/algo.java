@@ -1,6 +1,6 @@
 package com.algo.leetcode.dp.del_op_2_strings_583;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

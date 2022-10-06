@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.pattern132_456;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

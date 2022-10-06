@@ -2,7 +2,7 @@ package com.algo.leetcode.array.longest_consecutive_seq_128;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 public class LongestConsecutiveSequenceTest extends AbstractExecuteTests<TestCase> {
 

@@ -1,6 +1,6 @@
 package com.algo.leetcode.dp.triangle_120;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.ArrayList;
 import java.util.Arrays;

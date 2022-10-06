@@ -1,6 +1,6 @@
-package com.algo.leetcode.array.spiral_matrix_2;
+package com.algo.leetcode.array2d.spiral_matrix_2;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 
 import static org.junit.jupiter.api.Assertions.*;

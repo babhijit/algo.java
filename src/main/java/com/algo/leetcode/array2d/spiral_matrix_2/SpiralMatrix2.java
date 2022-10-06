@@ -1,4 +1,4 @@
-package com.algo.leetcode.array.spiral_matrix_2;
+package com.algo.leetcode.array2d.spiral_matrix_2;
 
 public class SpiralMatrix2 {
     private static class Edges {

@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.k_largest_element;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

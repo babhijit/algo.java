@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.rm_all_adj_dup_1209;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

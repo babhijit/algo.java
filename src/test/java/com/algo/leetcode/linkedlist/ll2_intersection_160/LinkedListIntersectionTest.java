@@ -1,6 +1,6 @@
 package com.algo.leetcode.linkedlist.ll2_intersection_160;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.Objects;
 

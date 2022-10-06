@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.last_stone_weight;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

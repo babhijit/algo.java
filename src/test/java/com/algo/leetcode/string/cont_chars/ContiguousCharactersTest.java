@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.cont_chars;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

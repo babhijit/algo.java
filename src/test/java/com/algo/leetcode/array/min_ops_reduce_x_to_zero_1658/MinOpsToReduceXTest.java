@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.min_ops_reduce_x_to_zero_1658;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

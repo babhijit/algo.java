@@ -1,6 +1,6 @@
 package com.algo.leetcode.linkedlist.remove_n_from_end;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.Objects;
 

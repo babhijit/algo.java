@@ -1,6 +1,6 @@
 package com.algo.interviewbit.greedy.disjoint_intervals;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

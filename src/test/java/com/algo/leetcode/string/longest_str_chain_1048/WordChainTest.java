@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.longest_str_chain_1048;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

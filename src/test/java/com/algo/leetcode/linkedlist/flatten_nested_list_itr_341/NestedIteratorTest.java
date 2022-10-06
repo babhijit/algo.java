@@ -1,6 +1,6 @@
 package com.algo.leetcode.linkedlist.flatten_nested_list_itr_341;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.*;
 

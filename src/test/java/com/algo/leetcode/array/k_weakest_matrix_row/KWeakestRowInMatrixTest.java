@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.k_weakest_matrix_row;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 

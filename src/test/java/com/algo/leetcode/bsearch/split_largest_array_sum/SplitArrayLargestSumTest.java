@@ -1,6 +1,6 @@
 package com.algo.leetcode.bsearch.split_largest_array_sum;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

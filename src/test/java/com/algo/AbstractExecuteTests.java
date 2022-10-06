@@ -1,4 +1,4 @@
-package com.algo.leetcode;
+package com.algo;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;
@@ -30,8 +30,6 @@ public abstract class AbstractExecuteTests<TestCase> {
         );
         Gson gson = new Gson();
         JsonArray testCases = (JsonArray) JsonParser.parseString(testsData);
-        testCases.forEach(testCase -> {
-            executeTest(gson.fromJson(testCase, testCaseType));
-        });
+        testCases.forEach(testCase -> executeTest(gson.fromJson(testCase, testCaseType)));
     }
 }

@@ -1,6 +1,6 @@
 package com.algo.leetcode.bsearch.search_in_rotated_array_unknown_index;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;

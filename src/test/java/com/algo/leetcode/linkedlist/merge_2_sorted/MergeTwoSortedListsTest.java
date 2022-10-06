@@ -1,6 +1,6 @@
 package com.algo.leetcode.linkedlist.merge_2_sorted;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.Objects;
 

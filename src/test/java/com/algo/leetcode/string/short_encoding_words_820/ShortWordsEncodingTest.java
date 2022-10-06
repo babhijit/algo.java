@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.short_encoding_words_820;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

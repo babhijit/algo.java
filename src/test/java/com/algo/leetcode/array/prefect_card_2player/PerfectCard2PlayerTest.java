@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.prefect_card_2player;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

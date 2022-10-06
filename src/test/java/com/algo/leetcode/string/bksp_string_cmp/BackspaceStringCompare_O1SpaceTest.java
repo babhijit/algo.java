@@ -1,6 +1,6 @@
 package com.algo.leetcode.string.bksp_string_cmp;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

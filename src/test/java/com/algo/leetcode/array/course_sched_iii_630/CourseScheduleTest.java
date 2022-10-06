@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.course_sched_iii_630;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

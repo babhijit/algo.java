@@ -1,11 +1,10 @@
 package com.algo.leetcode.string.search_suggest_sys_1268;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -23,7 +22,7 @@ class Suggest3ProductsTest extends AbstractExecuteTests<TestCase> {
     }
 
     private List<List<String>> getExpectedList(String[][] strings2D) {
-        List<String[]> stringsArrayList = Arrays.stream(strings2D).collect(Collectors.toList());
+        List<String[]> stringsArrayList = Arrays.stream(strings2D).toList();
         List<List<String>> result = new ArrayList<>(strings2D.length);
         for (String[] strings: stringsArrayList) {
             result.add(Arrays.stream(strings).toList());

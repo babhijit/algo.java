@@ -1,6 +1,6 @@
 package com.algo.leetcode.backtrack.n_queens_51;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 import org.junit.jupiter.api.Assertions;
 
 import java.util.HashSet;

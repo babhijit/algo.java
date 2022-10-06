@@ -1,6 +1,6 @@
 package com.algo.leetcode.greedy.reach_furthest_bldg_1642;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.*;
 

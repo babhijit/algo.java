@@ -1,6 +1,6 @@
 package com.algo.leetcode.linkedlist.middle;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

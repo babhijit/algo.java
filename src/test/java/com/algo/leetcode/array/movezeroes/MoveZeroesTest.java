@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.movezeroes;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 

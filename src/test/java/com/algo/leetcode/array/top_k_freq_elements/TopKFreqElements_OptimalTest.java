@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.top_k_freq_elements;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.Arrays;
 

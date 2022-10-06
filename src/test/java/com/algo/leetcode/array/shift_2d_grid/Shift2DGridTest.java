@@ -1,6 +1,6 @@
 package com.algo.leetcode.array.shift_2d_grid;
 
-import com.algo.leetcode.AbstractExecuteTests;
+import com.algo.AbstractExecuteTests;
 
 import java.util.ArrayList;
 import java.util.Arrays;
